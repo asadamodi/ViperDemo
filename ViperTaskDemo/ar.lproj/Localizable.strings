@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  ViperTaskDemo
+
+  Created by Asad Amodi on 01/05/2024.
+  
+*/
+"pleaseWait" = "Please wait....";
+"noInternetAlert" = "Not connected to internet.";

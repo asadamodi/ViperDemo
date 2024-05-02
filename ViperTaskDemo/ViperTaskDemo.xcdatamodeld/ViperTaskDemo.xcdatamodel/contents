@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22225" systemVersion="23E214" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="UniversityTable" representedClassName="UniversityTable" syncable="YES" codeGenerationType="class">
+        <attribute name="alphaTwoCode" optional="YES" attributeType="String"/>
+        <attribute name="country" optional="YES" attributeType="String"/>
+        <attribute name="domains" optional="YES" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromData" customClassName="Array&lt;String&gt;"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="stateProvince" optional="YES" attributeType="String"/>
+        <attribute name="webPages" optional="YES" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromData" customClassName="Array&lt;String&gt;"/>
+    </entity>
+</model>
